@@ -1,0 +1,8 @@
+{
+    "file": "C:/Users/gzare/PycharmProjects/lab3/text.txt",
+    "language": "uk",
+    "output": "file",  
+    "char_limit": 10000,  
+    "word_limit": 2000,   
+    "sentence_limit": 100 
+  }
